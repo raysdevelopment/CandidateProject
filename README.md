@@ -36,5 +36,4 @@ Submission
 --------------------
 Please submit via:
 
-1. Pull Request (preferred)
-2. Email ZIP
+1. Email ZIP named <first.last.candidate.project>.zip
