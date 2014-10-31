@@ -29,7 +29,8 @@ Instructions
  1. Refactoring of a code file is allowed
 2. Implement all TODO's
 3. Add any additional classes that may be required to the appropriate project
-4. Ask questions via email
+4. Use included text files in Puzzles directory
+5. Ask questions via email
 
 Submission
 --------------------
