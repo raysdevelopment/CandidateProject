@@ -19,7 +19,7 @@ Along with code implementation,
 1. Include high level class UML
 2. Create unit tests for majority code coverage
  1. A couple of tests have been included for you but many classes are untested
- 2. Even if a method has already been implemented, create unit tests should still be created
+ 2. Even if a method has already been implemented, unit tests should still be created
  3. Feel free to use any substitution or mocking framework to assist with unit testing
 3. Include any additional assemblies used
 
@@ -28,12 +28,11 @@ Instructions
 1. Do not remove any existing code unless instructed otherwise via existing code comments
  1. Refactoring of a code file is allowed
 2. Implement all TODO's
-3. Add any additional classes that may be required
- 1. Add strategy classes to the Sudoku.Core project
+3. Add any additional classes that may be required to the appropriate project
 4. Ask questions via email
 
 Submission
 --------------------
 Please submit via:
 
-1. Email ZIP named <first.last.candidate.project>.zip
+1. Email ZIP named &lt;first.last.candidate.project&gt;.zip
